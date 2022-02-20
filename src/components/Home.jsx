@@ -13,6 +13,7 @@ const Home = () => {
       </Col>
       <Col xs={9}>
         <MyNavBar />
+        <HomeContent />
       </Col>
     </Row>
   );
